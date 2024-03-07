@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1686148081 source:e:\programacion utn\laboratorio 1\2023\logatti\quinientos\quinientos\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+	"dados.h"
+
+1666790797 e:\programacion utn\laboratorio 1\2023\logatti\quinientos\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686078804 e:\programacion utn\laboratorio 1\2023\logatti\quinientos\quinientos\funciones.h
+
+1686140685 e:\programacion utn\laboratorio 1\2023\logatti\quinientos\quinientos\dados.h
+
